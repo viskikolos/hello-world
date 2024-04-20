@@ -1,0 +1,66 @@
+#menu1 {
+    float: left;
+    width: 100%;
+    padding: 0;
+    margin: 0 0 1em 0;
+    list-style-type: none;
+    background-color: #000;
+}
+#menu1 li{ display: inline;}
+#menu1 a {
+  float:left;
+  padding: 0.25em 1em;
+  margin: 0.25em 0 0.25em 1em;
+  color: #b4c424;
+  text-decoration: none;
+}
+#menu1 a:hover { background-color:red}
+#boing{
+  float: left;
+  padding: 0.25em 1em;
+  margin: 0.25em 0 0.25em 1em;
+}
+#fishy{
+  float: right;
+  padding: 0.25em 1em;
+  margin: 0.25em 0 0.25em 1em;
+}
+label {
+  width: 60px;
+  display: inline-block;
+}
+input, select {
+  margin: 10px 0;
+  padding: 2px;
+}
+#indexbody{
+  background-color: rgb(184, 113, 113);
+}
+#kepekbody{
+  background-color: silver;
+}
+#kapcsolatbody{
+  background-color: rgb(151, 202, 223);
+}
+#belepesbody{
+  background-color: #ecaf76;
+}
+#regbody{
+  background-color: thistle;
+}
+#hnk1{
+  float: left;
+  margin: 0 1em 0 0;
+}
+#hnk2{
+  float: left;
+  margin: 0 1em 0 0;
+}
+#hnk3{
+  float: left;
+  margin: 0 1em 0 0;
+}
+#hnk4{
+  float: left;
+  margin: 0 1em 0 0;
+}
