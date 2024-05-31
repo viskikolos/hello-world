@@ -1,5 +1,5 @@
 <h2>Üdvözöljük!</h2>
-<p>Az oldal sugárhajtású harci repülőgépeket mutat be röviden. Elsősorban az alábbi videóban látható gépekről lesz szó.</p>
+<p>Az oldal sugárhajtású harci repülőgépeket mutat be röviden. Elsősorban az alábbi videókban látható gépekről lesz szó.</p>
 <h3>Hangolódjunk:</h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYE5ENctJLE?si=vJP83MpmdD9My_d0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <video width="560" height="315" controls>

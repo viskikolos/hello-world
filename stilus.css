@@ -11,12 +11,6 @@ header img {
     margin: 20px 10px 0px 10px;
 }
 
-body{
-    background-image: url('./tornado.jpg');
-    background-repeat: no-repeat;
-    background-size:100%;
-}
-
 div#wrapper {
     margin: 10px;
 }
